@@ -25,8 +25,8 @@ h1 {
 
 hr {
     margin: 20px auto;
-    color: #F05F44;
-    border: 3px solid #F05F44;
+    color: #4E3A4B;
+    border: 3px solid #4E3A4B;
     max-width: 65px;
     opacity: 1;
 }
@@ -40,13 +40,13 @@ hr {
     text-transform: uppercase;
 }
 .btn-primary {
-    background-color: orange;
-    border-color: orange;
+    background-color: #96759C;
+    border-color: #96759C;
 }
 
 .btn-primary:hover {
-    background-color: #915f04;
-    border-color: #915f04;
+    background-color: #4E3A4B;
+    border-color: #4E3A4B;
     border-width: 4px;
 }
 
